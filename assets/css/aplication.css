@@ -14,11 +14,12 @@ body{
 	height: 550px;
 	background-repeat: no-repeat;
 	background-position: 0 -360px;
+	position: relative;
 	
 }
 
 .seccion1 img{
-	position: relative;
+	position: absolute;
 	width: 140px;
 	float: left;
 	left: 15%;
@@ -27,7 +28,7 @@ body{
 }
 
 .seccion1 ul{
-	position: relative;
+	position: absolute;
 	color: white;
 	list-style-type: none;
 	top: 40px;
@@ -63,7 +64,7 @@ body{
 	font-size: 16px;
 	top: 340px;
 	float: left;
-	left: 41%;
+	left: 40.5%;
 }
 
 .bverde{
@@ -76,7 +77,7 @@ body{
 	font-size: 16px;
 	top: 340px;
 	float: right;
-	right: 47%;
+	right: 46.5%;
 }
 
 .parrafo{
@@ -163,7 +164,7 @@ body{
 
 /* Sección 5*/
 
-#p1_s5{
+#contacto{
 	position: relative;
 	top: 100px;
 	float: left;
