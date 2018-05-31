@@ -9,7 +9,7 @@ body{
 /* Sección UNO*/
 
 .seccion1 {
-	background-image: url("../images/bg.jpeg");
+	background-image: url("assets/images/bg.jpeg");
 	background-size: cover;
 	height: 550px;
 	background-repeat: no-repeat;
